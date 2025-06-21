@@ -27,9 +27,9 @@ Route::get('/admin', function () {
 // Grupo de rotas para usuários não autenticados
 Route::middleware('guest')->group(function () {});
 
-Route::get('/login', function () {
-    return view('auth.login');
-})->name('login');
+// Route::get('/login', function () {
+//     return view('auth.login');
+// })->name('login');
 
 // para autenticados
 Route::middleware('auth')->group(function () {
