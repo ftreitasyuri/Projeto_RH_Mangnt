@@ -8,7 +8,8 @@
 ## 📦 Tecnologias Utilizadas
 
 - [Laravel 12](https://laravel.com/)
-- MySQL 
+- Para autenticação FORTIFY
+- Banco de dados MySQL 
 
 ---
 ## 📁 Estrutura de Branches
