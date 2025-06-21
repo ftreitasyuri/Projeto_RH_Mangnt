@@ -8,7 +8,7 @@ Este documento descreve o fluxo de trabalho com Git para manter o projeto organi
 
 - `master`: versão **estável**, pronta para produção.
 - `develop`: versão de **desenvolvimento**, onde novas funcionalidades são integradas antes de ir para a `master`.
-- `tags-importantes`: **feat/NOME, fix/BUG, chore/CONFIG**
+- `tags-importantes`: **feat/NOME, fix/BUG, chore/CONFIG, hotfix/Corração Urgente em PRD**
 ---
 
 ## 🌿 Criando novas features
